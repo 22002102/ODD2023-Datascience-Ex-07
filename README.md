@@ -22,7 +22,7 @@ Save the data to the file
  NAME : SANJAY S
  REG NO : 212222230132
 ```
- ### DATA PREPROCESSING BEFORE FEATURE SELECTION:
+### DATA PREPROCESSING BEFORE FEATURE SELECTION:
 ```
 import pandas as pd
 import numpy as np
