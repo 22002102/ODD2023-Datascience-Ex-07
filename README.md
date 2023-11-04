@@ -199,19 +199,26 @@ plt.show()
 ```
 # OUPUT:
 ### DATA PREPROCESSING BEFORE FEATURE SELECTION:
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/615e82c7-3e00-464a-9008-b87e126ec508)
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/615e82c7-3e00-464a-9008-b87e126ec508 width=450 height=450>
+<br>
 
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/f109fd9b-4e99-4cc4-8ddf-99dbedc6781f)
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/f109fd9b-4e99-4cc4-8ddf-99dbedc6781f width=450 height=450>
 
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/8bb0dc03-15a2-4126-8297-d50603d73318)
+<br>
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/8bb0dc03-15a2-4126-8297-d50603d73318 width=450 height=450>
 
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/203f311e-9e18-41c8-88f8-22d5acf037c7)
+<br>
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/203f311e-9e18-41c8-88f8-22d5acf037c7 width=450 height=450>
 
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/a3bcd8ff-4890-45c1-842a-12b700d3ad8b)
+<br>
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/a3bcd8ff-4890-45c1-842a-12b700d3ad8b width=450 height=450>
 
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/fa3fcfe6-0ad3-4e47-b99e-9356e0b774a7)
+<br>
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/fa3fcfe6-0ad3-4e47-b99e-9356e0b774a7 width=450 height=450>
 
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/340a5f1f-871a-4b4d-aaee-5d3adda9b11f)
+<br>
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/340a5f1f-871a-4b4d-aaee-5d3adda9b11f width=450 height=450>
+
 
 # FEATURE SELECTION:
 
@@ -219,11 +226,11 @@ plt.show()
 
 The filtering here is done using correlation matrix and it is most commonly done using Pearson correlation.
 
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/43d6601d-52f0-4de3-8d90-06afade5112b)
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/43d6601d-52f0-4de3-8d90-06afade5112b width=450 height=450>
 
 ### HIGHLY CORRELATED FEATURES WITH THE OUTPUT VARIABLE SURVIVED:
 
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/1e8c90b2-383c-4b75-b921-51cd013e7863)
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/1e8c90b2-383c-4b75-b921-51cd013e7863 width=450 height=450>
 
 ### WRAPPER METHOD:
 Wrapper Method is an iterative and computationally expensive process but it is more accurate than the filter method.
@@ -231,25 +238,25 @@ Wrapper Method is an iterative and computationally expensive process but it is m
 There are different wrapper methods such as Backward Elimination, Forward Selection, Bidirectional Elimination and RFE.
 
 ### BACKWARD ELIMINATION:
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/0679e6bf-296c-435b-80cf-a0d2dc18736a)
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/0679e6bf-296c-435b-80cf-a0d2dc18736a width=450 height=450>
 
 ### RFE (RECURSIVE FEATURE ELIMINATION):
 
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/944be8b2-8666-40aa-b948-1e581cde6a56)
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/944be8b2-8666-40aa-b948-1e581cde6a56 width=450 height=450>
 
 
 ### OPTIMUM NUMBER OF FEATURES THAT HAVE HIGH ACCURACY:
 
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/9c904829-8074-4302-9680-f381f3f7e323)
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/9c904829-8074-4302-9680-f381f3f7e323 width=450 height=450>
 
 ### FINAL SET OF FEATURE:
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/c01cb17e-f5bc-4d3a-97b5-4fb5aba20dde)
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/c01cb17e-f5bc-4d3a-97b5-4fb5aba20dde width=450 height=450>
 
 
 ### EMBEDDED METHOD:
 Embedded methods are iterative in a sense that takes care of each iteration of the model training process and carefully extract those features which contribute the most to the training for a particular iteration. Regularization methods are the most commonly used embedded methods which penalize a feature given a coefficient threshold.
 
-![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/13abe7f0-8844-4e02-871a-68c3d5e32d1b)
+<img src=https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/13abe7f0-8844-4e02-871a-68c3d5e32d1b width=450 height=450>
 
 # RESULT:
 Thus, the various feature selection techniques have been performed on a given dataset successfully.
