@@ -84,9 +84,11 @@ print ("R2     :",r2_score(y_test,target_predict))
 ![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/c7889161-aff2-4c45-99ab-686fc239f017)
 <br>
 
+
 ![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/36ccd788-135d-47d3-b10e-59bfe121fa47)
 ![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/cd9ee3a7-a0f0-410a-b526-96b089719a36)
 <br>
+
 
 ![image](https://github.com/22002102/ODD2023-Datascience-Ex-07/assets/119091638/6eec79f3-7be6-4cce-8290-94183776a317)
 <br>
